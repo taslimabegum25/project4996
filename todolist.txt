@@ -1,0 +1,48 @@
+Name of the task: Download Github/commit repository
+Estimated No of hours: 2
+Actual time spent: 1
+Notes:  had to watch tutorials and figure out how to download and work the github
+Issues: downloaded wrong github the first time
+
+Name of the task: Figure out all the tasks and the estimated number of hours I will work on it
+Estimated No of hours: 30 min
+Actual time spent: 15 min 
+Notes: Didn't take as long as I expected 
+Issues: 
+
+Name of the task: download the WAMPS stack
+Estimated No of hours: 2
+Actual time spent: 
+Notes: 
+Issues: 
+
+Name of the task: Research and brainstorm on how to write the code
+Estimated No of hours: 8-10 hrs
+Actual time spent: 
+Notes: 
+Issues: 
+
+Name of the task: Write the actual code
+Estimated No of hours:  10-12 hr
+Actual time spent: 
+Notes: 
+Issues: 
+
+Name of the task: Documentation
+Estimated No of hours:  18 hrs
+Actual time spent: 
+Notes: 
+Issues: 
+
+Name of the task: Demo and readme file
+Estimated No of hours:  4 hr
+Actual time spent: 
+Notes: 
+Issues: 
+
+Name of the task:  Review and submit 
+Estimated No of hours:  1 hr
+Actual time spent: 
+Notes: 
+Issues: 
+
